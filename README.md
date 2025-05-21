@@ -39,7 +39,7 @@ This project simulates page replacement algorithms (FIFO, LRU, and Optimal) usin
 
 ### Output
 
-- The program will display the total **page faults** and **page hits** for the selected algorithm(s).
+- The program will display the total **page faults** for the selected algorithm(s).
 - If running **All**, a bar chart comparing page faults across FIFO, LRU, and Optimal will be shown **only on the first run** to avoid repeated pop-ups.
 
 ---
@@ -52,4 +52,4 @@ This project simulates page replacement algorithms (FIFO, LRU, and Optimal) usin
 
 ### Output Screen  
 ![Output Screen](output_comparision_chart.png)  
-*Page faults and hits are shown here. When running all algorithms, a bar chart compares their performance (only on first run).*
+*Page faults are shown here. When running all algorithms, a bar chart compares their performance (only on first run).*
